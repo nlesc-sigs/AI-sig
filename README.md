@@ -17,7 +17,7 @@ The group focuses on:
 
 | Date | Time |Presenters | Topic |
 |------|------|------|------------|
-| 12-03-26| 13.00| Malte Lüken | Markov Chain Monte Carlo estimation with Amortized Bayesian Inference |
+| 12-03-26| 13.00| Malte Lüken | Neural density estimation for stochastic models |
 | 09-04-26| 13.00| Simone Ciarella | Diffusion models and GenAI for images |
 | 07-05-26| 13.00| ? | ? |
 | 04-06-26| 13.00| ? | ? |
