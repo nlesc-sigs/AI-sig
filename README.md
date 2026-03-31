@@ -19,7 +19,7 @@ The group focuses on:
 |------|------|------|------------|-------|
 | 12-03-26| 13.00| Malte Lüken | Neural density estimation for stochastic models | [link](https://nlesc.sharepoint.com/:v:/s/mlpr/IQAMmflGWHNBRIQcm-aU2uKUAYSgx9ww_DjDTXZLchVaBBo?e=0EmGGU) |
 | 09-04-26| 13.00| Simone Ciarella | Diffusion models and GenAI for images | |
-| 07-05-26| 13.00| Angel? | ? | |
+| 07-05-26| 13.00| Angel | Portable RAG | |
 | 04-06-26| 13.00| Faruk? | ? | |
 
 The recordings are stored on the Sharepoint page of the ML/AI SIG and are available internally.
