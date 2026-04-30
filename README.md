@@ -19,9 +19,9 @@ The group focuses on:
 |------|------|------|------------|-------|
 | 12-03-26| 13.00| Malte Lüken | Neural density estimation for stochastic models | [link](https://nlesc.sharepoint.com/:v:/s/mlpr/IQAMmflGWHNBRIQcm-aU2uKUAYSgx9ww_DjDTXZLchVaBBo?e=0EmGGU) |
 | 09-04-26| 13.00| Simone Ciarella | Diffusion models and GenAI for images | [link](https://nlesc.sharepoint.com/:v:/s/mlpr/IQCNyk-BWFVgTJ1u5MQ-xLYIAasA0MZ21Of0yGxg9DlIgto?e=1m4wXM) |
-| 07-05-26| 13.00| Angel | Portable RAG | |
+| 07-05-26| 13.00| Cunliang | Pytorch model optimization | |
 | 04-06-26| 13.00| (External speaker) Kamilla Kopec-Harding | ? | |
-| 02-07-26| 13.00| Faruk ? | ? | |
+| 02-07-26| 13.00| Faruk or Angel ? | ? | |
 
 The recordings are stored on the Sharepoint page of the ML/AI SIG and are available internally.
 
