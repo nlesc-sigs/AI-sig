@@ -22,6 +22,9 @@ The group focuses on:
 | 07-05-26| 13.00| Cunliang | Pytorch model optimization | |
 | 04-06-26| 13.00| (External speaker) Kamilla Kopec-Harding | ? | |
 | 02-07-26| 13.00| Faruk or Angel ? | ? | |
+| 24-09-26 | 13.00| ? | ? | |
+| 19-11-26 | 13.00| ? | ? | |
+| 17-12-26 | 13.00| ? | ? | |
 
 The recordings are stored on the Sharepoint page of the ML/AI SIG and are available internally.
 
