@@ -23,7 +23,7 @@ The group focuses on:
 | 04-06-26| 13.00| Cunliang Geng / Angel Daza | AI for Research / PRAG system |[link](https://nlesc.sharepoint.com/:v:/s/mlpr/IQBIPHouIiiCTqUjGp2ahZRMAVG7PsUvAcKJo0yHRSuELQU?e=iBrda0), [slides](https://zenodo.org/records/20542154) |
 | 02-07-26| 13.00| (External speaker) Kamilla Kopec-Harding | AI-Assisted Coding: Known Risks and How to Manage Them | [link](https://nlesc.sharepoint.com/:v:/s/mlpr/IQDcTaXXXfCaQb_JTnqM0amaAePZjTvElkQXwa74GZT5t9A?e=uFWGhZ) |
 | 24-09-26 | 13.00| Sarah | Scientific machine learning and differentiable programming | |
-| 19-11-26 | 13.00| ? | ? | |
+| 19-11-26 | 13.00| Ou Ku | Agent Skills | |
 | 17-12-26 | 13.00| ? | ? | |
 
 The recordings are stored on the Sharepoint page of the ML/AI SIG and are available internally.
